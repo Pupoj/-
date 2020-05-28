@@ -1,0 +1,153 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+#frame {
+	width: auto;
+	height: 904px;
+	/*background-color: pink;*/
+	padding: 10px;
+	background-image: url("img/fongory2.png");
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+#header {
+
+	height: 60%;
+	margin-top: 180px;
+	/*background-color: blue;*/
+	margin-left: 250px;
+	margin-right: 250px;
+}
+
+#div1 {
+    /*background-color: brown;*/
+	height: 20%;
+	width: 100%;
+	   display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-decoration:none;
+
+}
+
+#div1 p {
+    text-decoration:none;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    }
+
+    #div11 p {
+
+   text-decoration:none;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+#div12 {
+
+   /*background-color: green;*/
+	height: 18%;
+	width: 100%;
+}
+
+#div121 {
+
+    /*background-color: purple;*/
+/*    margin-left: 400px;
+    margin-right: 500px;*/
+    width: 5%;
+    position: absolute; 
+    left: 50%;
+    margin-left: -130px; 
+
+}
+
+#div122 {
+
+    /*background-color: black;*/
+/*    margin-left: 700px;
+    margin-right: 800px;*/
+    width: 4%;
+    position: absolute; 
+    left: 45%;
+    margin-left: 50px;
+}
+
+#div123 {
+
+    /*background-color: orange;*/
+    width: 4%;
+    position: absolute; 
+    left: 46%;
+    margin-left: 100px; 
+}
+
+
+#Google {
+    display:block;
+    margin: auto;
+    width: 80px;
+    height: 80px;
+}
+
+#facebook {
+    display:block;
+    margin: auto;
+    width: 80px;
+    height: 80px;
+}
+
+#vk {
+    display:block;
+    margin: auto;
+    width: 130px;
+    height: 80px;
+}
+
+#div13 {
+
+    /*background-color: white;*/
+    height: 20%;
+    width: 100%;
+}
+
+
+
+#logo {
+    display:block;
+    margin: auto;
+    width: 1000px;
+    height: 100px;
+}
+
+#logos {
+    display:block;
+    margin: auto;
+    width: 180px;
+    height: 170px;
+}
+#div14 {
+   height: 13%;
+    /*background-color: blue;*/
+   margin-left: 50px;
+    margin-right: 1600px;
+
+}
+
+#back a {
+    text-decoration:none;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    padding: 
+
+}

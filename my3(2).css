@@ -1,0 +1,218 @@
+body{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+#frame {
+	width: auto;
+	height: 900px;
+	/*background-color: pink;*/
+	padding: 10px;
+	background-image: url("img/fonfoto2.png");
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+
+#back a {
+	text-decoration:none;
+	color: white;
+	font-size: 20px;
+	display: flex;
+}
+
+#header {
+	margin-top: 100px;
+	width: 100%;
+	height: 80%;
+	display: flex;
+	/*background-color: blue;*/
+	float: left;
+
+}
+
+
+#left {
+	/*background-color: red;*/
+	height:100%;
+	width: 25%;
+	margin-left: 150px;
+	clear:both;
+	display: block;
+}
+
+#centre {
+	/*background-color: green;*/
+	height:100%;
+	width: 12%;
+	clear:both;
+	display: flex;
+}
+
+#right {
+	/*background-color: black;*/
+	height:100%;
+	width: 50%;
+	clear:both;
+	display: block;
+}
+
+
+
+#div1 {
+	/*background-color: green;*/
+	height: 30%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+}
+
+#div1 p{
+	text-decoration:none;
+	color: white;
+	font-size: 30px;
+
+}
+
+
+#div2 {
+	/*background-color: orange;*/
+	height: 70%;
+	width: 100%;
+	display: flex;
+}
+
+#div2 p{
+	text-decoration:none;
+	color: white;
+	font-size: 30px;
+
+}
+
+#div21 {
+	/*background-color: green;*/
+	height: 20%;
+	width: 100%;
+	display: flex;
+
+}
+#div211 {
+	/*background-color: purple;*/
+	height: 100%;
+	width: 20%;
+	display: flex;
+
+}
+
+#div2111 {
+	/*background-color: red;*/
+	height: 100%;
+	width: 50%;
+	display: block;
+
+}
+
+#right h2 {
+
+    margin-bottom: -3px;
+     text-decoration:none;
+    color: white;
+}
+
+#right a {
+
+    text-decoration:none;
+    color: white;
+    /*font-size: 20px;*/
+}
+
+
+#div22 {
+	/*background-color: orange;*/
+	height: 20%;
+	width: 100%;
+	display: flex;
+}
+#div212 {
+	/*background-color: brown;*/
+	height: 100%;
+	width: 20%;
+	display: flex;
+
+}
+#div2112 {
+	/*background-color: green;*/
+	height: 100%;
+	width: 50%;
+	display: block;
+
+}
+
+#div23 {
+	/*background-color: red;*/
+	height: 20%;
+	width: 100%;
+	display: flex;
+
+}
+#div213 {
+	/*background-color: white;*/
+	height: 100%;
+	width: 20%;
+	display: flex;
+
+}
+#div2113 {
+	/*background-color: yellow;*/
+	height: 100%;
+	width: 50%;
+	display: block;
+
+}
+
+#div24 {
+	/*background-color: blue;*/
+	height: 20%;
+	width: 100%;
+	display: flex;
+
+}
+#div214 {
+	/*background-color: red;*/
+	height: 100%;
+	width: 20%;
+	display: flex;
+
+}
+#div2114 {
+	/*background-color: purple;*/
+	height: 100%;
+	width: 50%;
+	display: block;
+
+}
+
+#icon {
+	display:block;
+	margin: auto;
+	width: 320px;
+	height: 180px;
+		float: right;
+}
+#icon3 {
+	display:block;
+	margin: auto;
+	width: 200px;
+	height: 170px;
+}
+
+	#icon4 {
+	display:block;
+	margin: auto;
+	width: 200px;
+	height: 170px;
+}
